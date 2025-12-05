@@ -1,0 +1,102 @@
+ingredient,severity,category,note,score
+Sugar,Bad,Sweetener,,2
+Salt,Moderate,Ingredient,,5
+Palm Oil,Moderate,Ingredient,,3
+Sunflower Oil,Bad,Ingredient,,7
+Canola Oil,Moderate,Ingredient,,6
+Whole Wheat Flour,Good,Ingredient,,9
+Refined Wheat Flour (Maida),Moderate,Ingredient,,3
+Soy Lecithin,Moderate,Additive,E322,7
+Monosodium Glutamate,Bad,Additive,E621,2
+Citric Acid,Good,Additive,E330,8
+Sodium Benzoate,Moderate,Additive,E211,3
+Potassium Sorbate,Moderate,Additive,E202,5
+Calcium Propionate,Moderate,Additive,E282,4
+Artificial Flavour,Bad,Additive,,1
+Natural Flavour,Good,Additive,,7
+Artificial Colour,Bad,Additive,,1
+Caramel Colour,Moderate,Additive,E150,4
+TBHQ,Bad,Additive,E319,1
+BHA,Bad,Additive,E320,2
+BHT,Bad,Additive,E321,2
+Guar Gum,Good,Additive,E412,7
+Xanthan Gum,Good,Additive,E415,7
+Gelatin,Moderate,Ingredient,,6
+Pectin,Good,Ingredient,,8
+Corn Syrup,Bad,Ingredient,,1
+High Fructose Corn Syrup,Bad,Ingredient,,0
+Milk Solids,Good,Ingredient,,8
+Whey Protein,Good,Ingredient,,9
+Casein,Good,Ingredient,,8
+Cocoa Powder,Good,Ingredient,,7
+Cocoa Butter,Good,Ingredient,,9
+Palm Kernel Oil,Moderate,Ingredient,,4
+Emulsifier 471,Moderate,Additive,E471,6
+Emulsifier 472e,Moderate,Additive,E472e,6
+Enzyme Treated Flour,Moderate,Ingredient,,5
+Baking Soda,Good,Additive,E500,7
+Baking Powder,Moderate,Additive,,6
+Acidity Regulator 330,Good,Additive,E330,8
+Acidity Regulator 331,Good,Additive,E331,7
+Preservative 202,Moderate,Additive,E202,5
+Preservative 211,Moderate,Additive,E211,3
+Stabilizer 415,Good,Additive,E415,7
+Stabilizer 440,Good,Additive,E440,8
+Sorbitol,Moderate,Additive,E420,4
+Maltodextrin,Moderate,Ingredient,,3
+Dextrose,Moderate,Ingredient,,4
+Yeast Extract,Moderate,Ingredient,,6
+Rice Flour,Good,Ingredient,,9
+Oat Flour,Good,Ingredient,,9
+Corn Flour,Good,Ingredient,,7
+Potato Starch,Good,Ingredient,,7
+Modified Starch,Moderate,Additive,,4
+Ascorbic Acid,Good,Additive,E300,9
+Niacin,Good,Additive,E375,9
+Riboflavin,Good,Additive,E101,9
+Thiamine,Good,Additive,E101a,9
+Folic Acid,Good,Additive,E160,9
+Sucralose,Bad,Additive,E955,2
+Aspartame,Bad,Additive,E951,1
+Acesulfame K,Bad,Additive,E950,2
+Stevia Extract,Good,Additive,,9
+Erythritol,Good,Additive,,7
+Sodium Nitrite,Bad,Additive,E250,0
+Sodium Nitrate,Bad,Additive,E251,1
+Smoke Flavour,Moderate,Additive,,3
+Hydrolyzed Vegetable Protein,Moderate,Ingredient,,3
+Olive Oil,Good,Ingredient,,9
+Mustard Oil,Good,Ingredient,,7
+Ghee,Moderate,Ingredient,,6
+Butter,Moderate,Ingredient,,5
+Skimmed Milk Powder,Good,Ingredient,,8
+Vegetable Shortening,Moderate,Ingredient,,3
+Invert Sugar,Bad,Ingredient,,1
+Jaggery,Moderate,Ingredient,,6
+Honey,Moderate,Ingredient,,7
+Chicory Root Fiber,Good,Ingredient,,8
+Psyllium Husk,Good,Ingredient,,9
+Coconut Oil,Good,Ingredient,,7
+Coconut Milk Powder,Good,Ingredient,,7
+Milk Fat,Moderate,Ingredient,,7
+Lactose,Moderate,Ingredient,,6
+Natural Colour (Annatto),Good,Additive,E160b,7
+Beetroot Red,Good,Additive,E162,8
+Beta Carotene,Good,Additive,E160a,9
+Curcumin,Good,Additive,E100,9
+Paprika Oleoresin,Good,Additive,E160c,8
+Titanium Dioxide,Bad,Additive,E171,1
+Silicon Dioxide,Moderate,Additive,E551,6
+Cellulose,Good,Ingredient,,7
+Microcrystalline Cellulose,Moderate,Additive,E460,6
+Tapioca Starch,Good,Ingredient,,8
+Pea Protein,Good,Ingredient,,9
+Rice Protein,Good,Ingredient,,9
+Soy Protein Isolate,Moderate,Ingredient,,7
+Lecithin (Sunflower),Good,Additive,E322,8
+Carrageenan,Moderate,Additive,E407,4
+Sodium Carboxymethyl Cellulose,Moderate,Additive,E466,6
+Potassium Chloride,Moderate,Additive,E508,6
+Tri-Calcium Phosphate,Good,Additive,E341,7
+Zinc Oxide,Good,Additive,E579,8
+Iron (Ferrous Fumarate),Good,Additive,E297,8
